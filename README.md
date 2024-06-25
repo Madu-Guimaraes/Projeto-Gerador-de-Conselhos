@@ -47,7 +47,7 @@ criaNovoConselhoAleatorio.addEventListener("click", criarConselho);
 
 ## Resultado Final ✨
 
-![gerador-de-conselhos]()
+![gerador-de-conselhos](https://github.com/Madu-Guimaraes/Projeto-Gerador-de-Conselhos/assets/146151781/b5d0eb3f-06a6-47e8-8a87-2e75b277e8ac)
 
 ## Link para o deploy 🌐
 
