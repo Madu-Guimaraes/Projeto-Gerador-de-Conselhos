@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap");
+
+body {
+    background-color: var(--background-color);
+    font-family: 'Manrope', sans-serif;
+    font-weight: 800;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 420px;
+    max-height: 250px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100%;
+    background-color: var(--advice-card-color);
+    width: 420px;
+    height: 250px;
+    border-radius: 8px;
+    padding: 3%;
+}
+
+#numero-do-conselho {
+    color: var(--mouse-color);
+    font-size: 20px;
+    margin: -20px 0 10px 0;
+}
+
+.descricao-do-conselho {
+    color: var(--text-color);
+    font-size: 18px;
+    border-bottom: 2px solid;
+    padding: 2%;
+    line-height: 1.6em;
+    width: 400px;
+}
+
+#btn {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border-color: #ffff00;
+    background-color: var(--mouse-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -25px;
+}
+
+#btn img {
+    width: 50px;
+    height: 50px;
+}
+
+#btn:hover {
+    cursor: pointer;
+    background-color: #84ffc1;
+}
