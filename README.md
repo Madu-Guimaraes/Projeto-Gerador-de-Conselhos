@@ -1,6 +1,6 @@
 # Projeto Gerador de Conselhos usando API 📃
 
-![imagem-final](](https://github.com/Madu-Guimaraes/Projeto-Gerador-de-Conselhos/assets/146151781/37e460c6-1622-445d-b40a-840fdedbc431))
+![imagem-final](https://github.com/Madu-Guimaraes/Projeto-Gerador-de-Conselhos/assets/146151781/37e460c6-1622-445d-b40a-840fdedbc431)
 
 ## Visão Geral 💡
 
