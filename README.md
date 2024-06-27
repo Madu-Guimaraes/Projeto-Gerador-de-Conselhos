@@ -55,4 +55,4 @@ criaNovoConselhoAleatorio.addEventListener("click", criarConselho);
 
 ## Design Responsivo 📱🖥️
 
-![gerador-de-conselhos]()
+![gerador-de-conselhos](https://github.com/Madu-Guimaraes/Projeto-Gerador-de-Conselhos/assets/146151781/61227633-c7c4-4ffe-b4ce-60346b75b7c1)
